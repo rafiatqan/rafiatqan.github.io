@@ -1,0 +1,32 @@
+body {
+    font-family: helvetica;
+    background-color:antiquewhite;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    font-weight: bold;
+    color: blueviolet;
+    text-align: center;
+}
+.code {
+    font-family: monospace;
+    background-color: yellow;
+}
+th {
+    background-color: pink;
+    font-weight: bold;
+    text-align: center;
+}
+table {
+    border: 2px solid darkorchid;
+    margin: 0 auto;
+}
+tbody {
+    vertical-align: middle;
+}
+td {
+    border-top: 1px solid black;
+}
